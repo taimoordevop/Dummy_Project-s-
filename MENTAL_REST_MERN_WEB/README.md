@@ -1,6 +1,6 @@
 # MindSpace - Mental Wellness Journal
 
-A comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights.
+A comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights .
 
 ## 🌟 Features
 
